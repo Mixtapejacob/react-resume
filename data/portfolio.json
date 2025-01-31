@@ -1,0 +1,140 @@
+{
+    "name": "Jacob Atakora",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Jacob Atakora - Junior",
+    "headerTaglineThree": "Frontend Developer/Web Devloper",
+    "headerTaglineFour": " based in Dallas, Texas.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/chetanverma16"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/chetanverma7/"
+      },
+      {
+        "id": "3",
+        "title": "Twitter",
+        "link": "https://twitter.com/realchetanverma"
+      },
+      {
+        "id": "4",
+        "title": "Blog",
+        "link": "https://blog.chetanverma.com/"
+      },
+      {
+        "id": "5",
+        "title": "Email",
+        "link": "mailto:hello@chetanverma.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Pokedex App",
+        "description": "Web Design",
+        "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://mixtapejacob.github.io/Simple-js-app"
+      },
+      {
+        "id": "2",
+        "title": "Movie API",
+        "description": "Backend",
+        "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "http://chetanverma.com/"
+      },
+      {
+        "id": "3",
+        "title": "MyFlix App",
+        "description": "React frontend",
+        "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/Mixtapejacob/myFlix-client"
+      },
+      {
+        "id": "4",
+        "title": "Meet App",
+        "description": "Fullstack",
+        "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "http://chetanverma.com/"
+      },
+      {
+        "id": "5",
+        "title": " Myflix App",
+        "description": "Angular",
+        "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "http://chetanverma.com/"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Frontend Development",
+        "description": "React, Angular, Javascript, jQuery"
+      },
+      {
+        "id": "2",
+        "title": "Backend",
+        "description": "NodeJS, Javascript, Express, Mongoose"
+      },
+      {
+        "id": "3",
+        "title": "Mobile Development",
+        "description": "React Native, Firebase."
+      },
+      {
+        "id": "4",
+        "title": "Others",
+        "description": "AWS, Google OAuth, Passport, MongoDB, PostgresSQL, MySQL"
+      }
+    ],
+    "aboutpara": "As an optimistic web developer I'm eagered about creating visually appealing and user-friendly websites but My Journey to becoming a web developer wasn't a easy one but wortth the reward. I've always like a challenge that is presented to me and that's exactly what this career change has been. Coming from a background of sales to web development was a 360 moment being able to be creative in what I'm coding and see it come to life. As I continue to grow in my skills as a software developer I'm Fasnicated about learning and growing my skils which is the best part because the value I can bring to a company with the added tools I already have is second to none. In my free time i enjoy writing different langauges such as HTML,CSS, javascript, react ,etc..",
+    "resume": {
+      "tagline": "👋  I'm a software engineer, product designer.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2022 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": "Bullet One, Bullet Two"
+        },
+        {
+          "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+          "dates": "July 2020 - March 2022",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        }
+      ],
+      "education": {
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": [
+        "Javascript",
+        "HTML5",
+        "CSS",
+        "Python",
+        "Go"
+      ],
+      "frameworks": [
+        "React",
+        "Typescript",
+        "NodeJs"
+      ],
+      "others": [
+        "Figma",
+        "AdobeXD",
+        "AWS"
+      ]
+    }
+  }
